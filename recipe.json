@@ -1,0 +1,14 @@
+{
+	"name": "Nvim Typescript IDE",
+        "version": "1.0.0",
+        "author": "Sh1d0w",
+        "repository": "https://github.com/Sh1d0w/nvim-typescript",
+        "description": "nvim setup with all tools and plugins needed for typescript development",
+        "preview": "nvim.png"
+	"platforms": ["macOS"],
+	"category": "development",
+	"scripts": {
+		"install": "install.sh",
+		"uninstall": "uninstall.sh"
+	}
+}
